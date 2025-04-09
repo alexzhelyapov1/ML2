@@ -1,0 +1,6 @@
+pip install jupyter notebook jupyterlab
+pip install opencv-python
+pip install scikit-learn
+pip install numpy pandas matplotlib scikit-learn
+pip install tqdm
+pip install torch segmentation-models-pytorch
