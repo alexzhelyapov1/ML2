@@ -2,3 +2,5 @@ Images
 Masks
 breast-cancer-cells-segmentation.zip
 *.pth
+checkpoints*
+tb_logs*
